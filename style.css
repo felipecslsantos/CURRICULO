@@ -8,7 +8,11 @@ body{
     font-family: "Open Sans", sans-serif;
 }
 
-header{
+#Dados{
     text-align: center;
-}    
 
+}
+
+h1{
+    font-size: 35px;
+}
